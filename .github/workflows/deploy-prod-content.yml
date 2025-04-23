@@ -1,4 +1,4 @@
-name: "${{ github.event.inputs.locale }}-deploy-prod-content"
+name: deploy-prod-content
 
 on:
   workflow_dispatch:
